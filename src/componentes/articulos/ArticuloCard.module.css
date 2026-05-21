@@ -1,0 +1,40 @@
+.card {
+    width: 18rem;
+    margin: 1rem;
+    border: 1px solid #ccc;
+}
+
+.imagen {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.cardbody {
+    padding: 1rem;
+}
+
+.cardtitle {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.cardtext {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1rem;
+}
+
+.boton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.boton:hover {
+    background-color: #0056b3;
+}

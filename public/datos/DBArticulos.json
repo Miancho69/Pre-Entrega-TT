@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cuaderno Universitario A4",
+    "descripcion": "Cuaderno rayado de 100 hojas tamaño A4 con tapa dura.",
+    "precio": 8.50,
+    "stock": 120,
+    "imagen": "https://example.com/images/cuaderno-a4.jpg",
+    "comentarios": [
+      "Muy resistente y práctico.",
+      "Las hojas son de excelente calidad."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Lápiz Negro HB",
+    "descripcion": "Lápiz de grafito HB ideal para escritura y dibujo.",
+    "precio": 0.75,
+    "stock": 500,
+    "imagen": "https://example.com/images/lapiz-hb.jpg",
+    "comentarios": [
+      "Escribe muy suave.",
+      "Buena duración."
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Caja de Colores x24",
+    "descripcion": "Set de 24 lápices de colores de madera.",
+    "precio": 12.90,
+    "stock": 80,
+    "imagen": "https://example.com/images/colores-24.jpg",
+    "comentarios": [
+      "Colores intensos y vivos.",
+      "Ideal para trabajos escolares."
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Mochila Escolar",
+    "descripcion": "Mochila resistente con múltiples compartimentos.",
+    "precio": 35.00,
+    "stock": 40,
+    "imagen": "https://example.com/images/mochila-escolar.jpg",
+    "comentarios": [
+      "Muy cómoda para llevar libros.",
+      "Excelente calidad de cierres."
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Cartuchera Doble Cierre",
+    "descripcion": "Cartuchera amplia con doble compartimento.",
+    "precio": 9.99,
+    "stock": 65,
+    "imagen": "https://example.com/images/cartuchera.jpg",
+    "comentarios": [
+      "Entra todo perfectamente.",
+      "Muy práctica para organizar útiles."
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Regla 30cm",
+    "descripcion": "Regla plástica transparente de 30 centímetros.",
+    "precio": 1.50,
+    "stock": 200,
+    "imagen": "https://example.com/images/regla-30.jpg",
+    "comentarios": [
+      "Liviana y resistente.",
+      "Las medidas se leen claramente."
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Compás Metálico",
+    "descripcion": "Compás escolar metálico para dibujo técnico.",
+    "precio": 6.75,
+    "stock": 55,
+    "imagen": "https://example.com/images/compas.jpg",
+    "comentarios": [
+      "Muy preciso.",
+      "Fácil de ajustar."
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Resaltadores Pastel x6",
+    "descripcion": "Set de resaltadores en tonos pastel.",
+    "precio": 7.80,
+    "stock": 90,
+    "imagen": "https://example.com/images/resaltadores.jpg",
+    "comentarios": [
+      "Los colores son muy lindos.",
+      "No traspasan el papel."
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Goma de Borrar Blanca",
+    "descripcion": "Goma suave que no daña el papel.",
+    "precio": 0.90,
+    "stock": 300,
+    "imagen": "https://example.com/images/goma-blanca.jpg",
+    "comentarios": [
+      "Borra muy bien.",
+      "No deja manchas."
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Bolígrafos Azules x10",
+    "descripcion": "Pack de 10 bolígrafos de tinta azul.",
+    "precio": 5.40,
+    "stock": 140,
+    "imagen": "https://example.com/images/boligrafos.jpg",
+    "comentarios": [
+      "La tinta dura bastante.",
+      "Escritura muy fluida."
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Carpeta Nº3",
+    "descripcion": "Carpeta escolar con anillos metálicos.",
+    "precio": 4.20,
+    "stock": 75,
+    "imagen": "https://example.com/images/carpeta-n3.jpg",
+    "comentarios": [
+      "Muy resistente.",
+      "Perfecta para organizar apuntes."
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Hojas Rayadas x96",
+    "descripcion": "Paquete de hojas rayadas reforzadas tamaño A4.",
+    "precio": 6.10,
+    "stock": 110,
+    "imagen": "https://example.com/images/hojas-rayadas.jpg",
+    "comentarios": [
+      "No se rompen fácilmente.",
+      "Buena calidad de impresión."
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Tijera Escolar",
+    "descripcion": "Tijera punta redonda apta para estudiantes.",
+    "precio": 3.30,
+    "stock": 85,
+    "imagen": "https://example.com/images/tijera.jpg",
+    "comentarios": [
+      "Corta muy bien.",
+      "Segura para niños."
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Plasticola 250ml",
+    "descripcion": "Adhesivo escolar lavable de secado rápido.",
+    "precio": 2.80,
+    "stock": 95,
+    "imagen": "https://example.com/images/plasticola.jpg",
+    "comentarios": [
+      "Pega perfectamente.",
+      "No tiene olor fuerte."
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Agenda Estudiantil",
+    "descripcion": "Agenda anual con calendario y espacio para notas.",
+    "precio": 11.50,
+    "stock": 45,
+    "imagen": "https://example.com/images/agenda.jpg",
+    "comentarios": [
+      "Muy útil para organizar tareas.",
+      "Diseño moderno y práctico."
+    ]
+  }
+]
