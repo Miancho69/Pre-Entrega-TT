@@ -5,7 +5,7 @@
     "descripcion": "Cuaderno rayado de 100 hojas tamaño A4 con tapa dura.",
     "precio": 8.50,
     "stock": 120,
-    "imagen": "https://example.com/images/cuaderno-a4.jpg",
+    "imagen": "/imagenes/articulos/Cuaderno-A4.webp",
     "comentarios": [
       "Muy resistente y práctico.",
       "Las hojas son de excelente calidad."
@@ -17,7 +17,7 @@
     "descripcion": "Lápiz de grafito HB ideal para escritura y dibujo.",
     "precio": 0.75,
     "stock": 500,
-    "imagen": "https://example.com/images/lapiz-hb.jpg",
+    "imagen": "/imagenes/articulos/Lapiz-hb.webp",
     "comentarios": [
       "Escribe muy suave.",
       "Buena duración."
@@ -29,7 +29,7 @@
     "descripcion": "Set de 24 lápices de colores de madera.",
     "precio": 12.90,
     "stock": 80,
-    "imagen": "https://example.com/images/colores-24.jpg",
+    "imagen": "/imagenes/articulos/colores-24.webp",
     "comentarios": [
       "Colores intensos y vivos.",
       "Ideal para trabajos escolares."
@@ -41,7 +41,7 @@
     "descripcion": "Mochila resistente con múltiples compartimentos.",
     "precio": 35.00,
     "stock": 40,
-    "imagen": "https://example.com/images/mochila-escolar.jpg",
+    "imagen": "/imagenes/articulos/mochila-escolar.webp",
     "comentarios": [
       "Muy cómoda para llevar libros.",
       "Excelente calidad de cierres."
@@ -53,7 +53,7 @@
     "descripcion": "Cartuchera amplia con doble compartimento.",
     "precio": 9.99,
     "stock": 65,
-    "imagen": "https://example.com/images/cartuchera.jpg",
+    "imagen": "/imagenes/articulos/cartuchera.png",
     "comentarios": [
       "Entra todo perfectamente.",
       "Muy práctica para organizar útiles."
@@ -65,7 +65,7 @@
     "descripcion": "Regla plástica transparente de 30 centímetros.",
     "precio": 1.50,
     "stock": 200,
-    "imagen": "https://example.com/images/regla-30.jpg",
+    "imagen": "/imagenes/articulos/regla-30.jpg",
     "comentarios": [
       "Liviana y resistente.",
       "Las medidas se leen claramente."
@@ -77,7 +77,7 @@
     "descripcion": "Compás escolar metálico para dibujo técnico.",
     "precio": 6.75,
     "stock": 55,
-    "imagen": "https://example.com/images/compas.jpg",
+    "imagen": "/imagenes/articulos/compas.jpg",
     "comentarios": [
       "Muy preciso.",
       "Fácil de ajustar."
@@ -89,7 +89,7 @@
     "descripcion": "Set de resaltadores en tonos pastel.",
     "precio": 7.80,
     "stock": 90,
-    "imagen": "https://example.com/images/resaltadores.jpg",
+    "imagen": "/imagenes/articulos/resaltadores.jpg",
     "comentarios": [
       "Los colores son muy lindos.",
       "No traspasan el papel."
@@ -101,7 +101,7 @@
     "descripcion": "Goma suave que no daña el papel.",
     "precio": 0.90,
     "stock": 300,
-    "imagen": "https://example.com/images/goma-blanca.jpg",
+    "imagen": "/imagenes/articulos/goma-blanca.jpg",
     "comentarios": [
       "Borra muy bien.",
       "No deja manchas."
@@ -113,7 +113,7 @@
     "descripcion": "Pack de 10 bolígrafos de tinta azul.",
     "precio": 5.40,
     "stock": 140,
-    "imagen": "https://example.com/images/boligrafos.jpg",
+    "imagen": "/imagenes/articulos/boligrafos.webp",
     "comentarios": [
       "La tinta dura bastante.",
       "Escritura muy fluida."
@@ -125,7 +125,7 @@
     "descripcion": "Carpeta escolar con anillos metálicos.",
     "precio": 4.20,
     "stock": 75,
-    "imagen": "https://example.com/images/carpeta-n3.jpg",
+    "imagen": "/imagenes/articulos/carpeta-n3.webp",
     "comentarios": [
       "Muy resistente.",
       "Perfecta para organizar apuntes."
@@ -137,7 +137,7 @@
     "descripcion": "Paquete de hojas rayadas reforzadas tamaño A4.",
     "precio": 6.10,
     "stock": 110,
-    "imagen": "https://example.com/images/hojas-rayadas.jpg",
+    "imagen": "/imagenes/articulos/hojas-rayadas.webp",
     "comentarios": [
       "No se rompen fácilmente.",
       "Buena calidad de impresión."
@@ -149,7 +149,7 @@
     "descripcion": "Tijera punta redonda apta para estudiantes.",
     "precio": 3.30,
     "stock": 85,
-    "imagen": "https://example.com/images/tijera.jpg",
+    "imagen": "/imagenes/articulos/tijera.jpg",
     "comentarios": [
       "Corta muy bien.",
       "Segura para niños."
@@ -161,7 +161,7 @@
     "descripcion": "Adhesivo escolar lavable de secado rápido.",
     "precio": 2.80,
     "stock": 95,
-    "imagen": "https://example.com/images/plasticola.jpg",
+    "imagen": "/imagenes/articulos/plasticola.webp",
     "comentarios": [
       "Pega perfectamente.",
       "No tiene olor fuerte."
@@ -173,7 +173,7 @@
     "descripcion": "Agenda anual con calendario y espacio para notas.",
     "precio": 11.50,
     "stock": 45,
-    "imagen": "https://example.com/images/agenda.jpg",
+    "imagen": "/imagenes/articulos/agenda.png",
     "comentarios": [
       "Muy útil para organizar tareas.",
       "Diseño moderno y práctico."

@@ -1,0 +1,29 @@
+.card {
+    width: auto;
+    height: 18rem;
+    margin: 1rem;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.imagen {
+    height: 12rem;
+    width: auto;
+    border-radius: 4px;
+}
+
+.cardbody {
+    padding: 1rem;
+}
+
+.cardtitle {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.cardtext {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1rem;
+}

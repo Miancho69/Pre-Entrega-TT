@@ -1,0 +1,20 @@
+[
+{
+    "id": 1,
+    "nombre": "John Doe",
+    "puesto": "Líder de equipo",
+    "imagen": "/imagenes/empleados/leader.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Abraham Smith",
+    "puesto": "Consultoria",
+    "imagen": "/imagenes/empleados/consultor.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Miancho Johnson",
+    "puesto": "Desarrollador",
+    "imagen": "/imagenes/empleados/developer.jpg"
+  }
+]
