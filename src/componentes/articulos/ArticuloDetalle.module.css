@@ -1,5 +1,21 @@
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30rem;
+  margin: 2rem auto;
+  gap: 20px;
+}
+
 .corazon {
+  width: 2rem;
   cursor: pointer;
   transition: color 0.3s ease;
   color: var(--color-corazon, #ccc); 
+}
+
+.botonera {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }

@@ -47,24 +47,29 @@ function ArticuloDetalle() {
 
   
   return (
-    <div>
-      <h2>{articulo.nombre}</h2>
-      <h3>{articulo.descripcion}</h3>
-      <h3>{articulo.precio}ARS</h3>
-      <img src={articulo.imagen}/>
-      
-      <span 
-        onClick={toggleFavorito} 
-        className={estilos.corazon}
-        style={{ '--color-corazon': favorito ? '#ff003c' : '#ccc' }}
-      >
-        {favorito ? '♥' : '♡'}
-      </span>
-      
+    <div className={estilos.contenedor}>
+      <div>
+        <img src={articulo.imagen} alt={articulo.nombre} />
+        <h2>{articulo.nombre}</h2>
+        <h3>{articulo.descripcion}</h3>
+        <h3>Precio: {articulo.precio}ARS</h3>
+      </div>
 
-      <button onClick={agregar}> - </button>
-      <p>{cantidad}</p>
-      <button onClick={restar}> + </button>
+      <div>
+        <span
+          onClick={toggleFavorito} 
+          className={estilos.corazon}
+          style={{ '--color-corazon': favorito ? '#ff003c' : '#ccc' }}
+        >
+          {favorito ? '♥' : '♡'}
+        </span>
+      </div>
+      
+      <div className={estilos.botonera}>
+        <button onClick={agregar}> + </button>
+        <p>{cantidad}</p>
+        <button onClick={restar}> - </button>
+      </div>
     </div>
   );
 }
