@@ -10,8 +10,8 @@
 .corazon {
   width: 2rem;
   cursor: pointer;
-  transition: color 0.3s ease;
-  color: var(--color-corazon, #ccc); 
+  /* transition: color 0.3s ease; */
+  /* color: var(--color-corazon, #ccc);  */
 }
 
 .botonera {

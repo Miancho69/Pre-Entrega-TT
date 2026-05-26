@@ -1,5 +1,7 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import FavoritoIcon from "../compartidos/FavoritoIcon";
+import FavoritoSelectedIcon from "../compartidos/FavoritoSelectedIcon";
 import estilos from './ArticuloDetalle.module.css';
 
 
@@ -59,9 +61,8 @@ function ArticuloDetalle() {
         <span
           onClick={toggleFavorito} 
           className={estilos.corazon}
-          style={{ '--color-corazon': favorito ? '#ff003c' : '#ccc' }}
         >
-          {favorito ? '♥' : '♡'}
+          {favorito ? <FavoritoSelectedIcon /> : <FavoritoIcon />}
         </span>
       </div>
       
